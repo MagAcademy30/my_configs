@@ -1,0 +1,9 @@
+window {
+	border-radius: 0px;
+	font-family: "hack";
+	font-size: 10px;
+}
+
+entry {
+	margin: 5px;
+}

@@ -1,0 +1,23 @@
+* {
+	border-radius: 0px;
+	font-family: FontAwesome, Roboto, Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color: white;
+}
+
+window {
+	background-color: rgba(50, 50, 50, 0.6);
+}
+
+#text {
+	margin: 5px;
+}
+
+#entry:selected {
+        background-color: rgba(90, 90, 90, 1);
+}
+
+#input {
+	margin: 10px;
+	background-color: rbga(50, 50, 50, 1);
+}
